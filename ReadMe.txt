@@ -13,3 +13,7 @@ Configuration of software :
    password : Aaa@12345
    
 3) finally configure the file 'config.php' in 'config' folder
+
+4) For any issue please contact on : gaurav.kr109@gmail.com
+
+5) Thanks.
