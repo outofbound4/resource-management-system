@@ -12,4 +12,4 @@ Configuration of software :
    email-id : gaurav.kr109@gmail.com
    password : Aaa@12345
    
-3) 
+3) finally configure the file 'config.php' in 'config' folder
