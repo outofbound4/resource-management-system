@@ -7,7 +7,7 @@ define('HTTP_SERVER', 'localhost');
 define('DB_DRIVER', 'mysql');
 define('DB_HOST', 'localhost');
 define('DB_HOST_USERNAME', 'root');
-define('DB_HOST_PASSWORD', 'Gaurav@9939');
+define('DB_HOST_PASSWORD', 'your database password');
 define('DB_DATABASE', 'resource_management');
 define('SITE_NAME', 'ResourceManagementSystem');
 /*Following email id and password is for sending email of forgotten link to user*/
