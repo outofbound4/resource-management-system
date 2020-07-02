@@ -1,9 +1,7 @@
 
 project Name : Resource Management System
 
-for login	 :-
-user Name :- gaurav
-password	 :- Gaurav@9939
-
-
+Configuration of software :
+1) install mysql
+  1.1) import mysqldump from the command line, here 
 
