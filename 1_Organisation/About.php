@@ -49,7 +49,6 @@ require_once 'top_nav.php';
 						<h5></>Web Developer</></h5>
 						<h2>GAURAV SHARMA</h2>
 						<h3>BCA</h3>
-						<h3>158283812</h3>
 					</div>
 				</div>
 			</div><!-- /. ROW  -->
